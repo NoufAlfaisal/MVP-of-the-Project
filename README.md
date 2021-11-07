@@ -4,13 +4,13 @@
 - The Dataset Contains : 7787 rows and 12 columns
 
 # The MVP notebook summarizes the following:
-Exploring the Data
-Check the variables that contains missing values
-Clean and Correct the missing values
-Exploratory Data Analysis (EDA) and Visualization
-Data Cleaning and Preprocessing with Pandas for modelisation
-Feature Selection
-Predctive Machine Learning Modeling
+- Exploring the Data
+- Check the variables that contains missing values
+- Clean and Correct the missing values
+- Exploratory Data Analysis (EDA) and Visualization
+- Data Cleaning and Preprocessing with Pandas for modelisation
+- Feature Selection
+- Predctive Machine Learning Modeling
 # Some Key Results:
 ## Figure 1: Distribution of the data based on type criteria.
 ![pos_neg_sent](https://github.com/NoufAlfaisal/Mvb-of-netflix-pro/blob/main/image.png)
@@ -24,5 +24,4 @@ The evolution of streaming contain in netflx according the dataset has inceased 
 In the project we used two types of models: K Nearest Neighbors & Random Forest
 Figure 3: The Results of Acurracy Based on Two Different Algorithms (RF & KNN)
 ![pos_neg_sent](https://github.com/NoufAlfaisal/Mvb-of-netflix-pro/blob/main/image3.png)
-
 According the Figue 3 we see that usinf Random Forest Algorithm gives a high acurracy results compared to KNN Algorithm.
