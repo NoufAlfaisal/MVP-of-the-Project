@@ -3,7 +3,8 @@
 - This dataset consists of tv shows and movies available on Netflix.
 - The Dataset Contains : 7787 rows and 12 columns
 
-# The MVP notebook summarizes the following:
+# The Project summarizes the following Analysis:
+
 - Exploring the Data
 - Check the variables that contains missing values
 - Clean and Correct the missing values
@@ -11,7 +12,9 @@
 - Data Cleaning and Preprocessing with Pandas for modelisation
 - Feature Selection
 - Predctive Machine Learning Modeling
+- 
 # Some Key Results:
+
 ## Figure 1: Distribution of the data based on type criteria.
 ![pos_neg_sent](https://github.com/NoufAlfaisal/Mvb-of-netflix-pro/blob/main/image.png)
 
