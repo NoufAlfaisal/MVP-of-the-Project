@@ -12,7 +12,7 @@
 - Data Cleaning and Preprocessing with Pandas for modelisation
 - Feature Selection
 - Predctive Machine Learning Modeling
-- 
+
 # Some Key Results:
 
 ## Figure 1: Distribution of the data based on type criteria.
