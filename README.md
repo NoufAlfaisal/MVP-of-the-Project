@@ -31,7 +31,7 @@ The evolution of streaming contain in netflx according the dataset has inceased 
 In the project we used two types of models: K Nearest Neighbors & Random Forest
 Figure 3: The Results of Acurracy Based on Two Different Algorithms (RF & KNN)
 
-![pos_neg_sent](https://github.com/NoufAlfaisal/Mvb-of-netflix-pro/blob/main/image3.png)
+![pos_neg_sent](https://github.com/NoufAlfaisal/Mvb-of-netflix-pro/blob/main/image33.png)
 
 
 
